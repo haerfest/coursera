@@ -1,0 +1,6 @@
+Code run by Haerfest
+Environment variable UWHPSC is /home/uwhpsc/Git/uwhpsc-org
+Environment variable MYHPSC is /home/uwhpsc/Git/coursera/uwhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
